@@ -1,9 +1,9 @@
 {
   "name": "mini-typescript-node-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.ts",
-  "types": "index.ts",
+  "main": "dir/index.ts",
+  "types": "dir/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
